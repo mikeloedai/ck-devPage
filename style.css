@@ -67,6 +67,7 @@ video{
 }
 
 a{
+	font-weight: 600;
 	margin-top: auto;
 	margin-bottom: auto;
 	padding: .5rem 1rem;
